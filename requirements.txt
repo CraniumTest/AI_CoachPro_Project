@@ -1,0 +1,6 @@
+opencv-python-headless
+posenet-pytorch
+numpy
+pandas
+scikit-learn
+openai
